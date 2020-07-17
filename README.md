@@ -1,2 +1,4 @@
-# index.html
-World Emoji Day
+
+---
+permalink: /index.html
+---
